@@ -1,0 +1,49 @@
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>from</th>
+            <th>to</th>
+            <th>date</th>
+            <th>departure</th>
+            <th>passenger</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngfor="let hello of  dd ,index as i">
+            <td>{{i}}</td>
+            <td>{{hello.from}}</td>
+            <td>{{hello.to}}</td>
+           
+            
+            
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
+<p>{{hello.from}} {{hello.to}}</p> 
+<button (click)="add()">add passenger</button>
+<form  [formGroup]="reservation">
+    <div  formArrayName="book" >
+        
+        <div *ngFor="let arr of user.controls ,index as i" [formGroupName]="i" >
+    <label>fullname</label>
+    <input type="text"placeholder="fullname" formControlName="fullname" >
+    <label>email</label>
+    <input type="text"placeholder="email" formControlName="email">
+    <label>adhar no</label>
+    <input type="text"placeholder="adharno"formControlName="adharno">
+    <label>mobile no</label>
+    <input type="text"placeholder="mobile"formControlName="mobile">
+    
+
+</div>
+</div>
+</form>
+<button (click)="submit()">book</button>

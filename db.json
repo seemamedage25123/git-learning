@@ -1,0 +1,480 @@
+{
+  "login": [
+    {
+      "email": "seema@123gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "varsha@123gmail.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "signup": [
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": "12345",
+      "id": 1
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 2
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 3
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 4
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 5
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 6
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 7
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 8
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 9
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 10
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 11
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 12
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 13
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 14
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 15
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 16
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 123456,
+      "id": 17
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 18
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 19
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 20
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 21
+    },
+    {
+      "fullname": "ssss@gmail.com",
+      "password": "123",
+      "email": "",
+      "mobile": "",
+      "id": 22
+    },
+    {
+      "fullname": "ssss@gmail.com",
+      "password": "123",
+      "email": "",
+      "mobile": "",
+      "id": 23
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 24
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 25
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 26
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 27
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 28
+    },
+    {
+      "fullname": "seema dnyaneshwar medage",
+      "password": "1234",
+      "email": "varsha@123gmail.com",
+      "mobile": 12345,
+      "id": 29
+    },
+    {
+      "fullname": "ssss@gmail.com",
+      "password": "123",
+      "email": "",
+      "mobile": "",
+      "id": 30
+    },
+    {
+      "fullname": "ssss@gmail.com",
+      "password": "123",
+      "email": "",
+      "mobile": "",
+      "id": 31
+    },
+    {
+      "fullname": "ssss@gmail.com",
+      "password": "123",
+      "email": "",
+      "mobile": "",
+      "id": 32
+    }
+  ],
+  "flight": [
+    {
+      "from": "mumbai",
+      "to": "delhi",
+      "thiketprice": "1200",
+      "airline": "indigo",
+      "date": "12/12/2022",
+      "time": "12;30",
+      "id": 1
+    },
+    {
+      "from": "dubai",
+      "to": "delhi",
+      "thiketprice": "1200",
+      "airline": "indigo",
+      "date": "12/12/2022",
+      "time": "12;30",
+      "id": 1
+    },
+    {
+      "from": "nashik",
+      "to": "delhi",
+      "thiketprice": "1200",
+      "airline": "indigo",
+      "date": "12/12/2022",
+      "time": "12;30",
+      "id": 1
+    }
+  ],
+  "bookindetails": [
+    {
+      "fullname": [
+        {
+          "fullname": "seema ",
+          "adharno": "1234"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "fullname": [
+        {
+          "fullname": "seema ",
+          "adharno": "1234"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fullname": [
+        {
+          "fullname": "seema ",
+          "adharno": "1234"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "fullname": [
+        {
+          "fullname": "seema ",
+          "adharno": "1234"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userdetails": [
+        {
+          "fullname": "varsha",
+          "adharno": "1234"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userdetails": [
+        {
+          "fullname": "",
+          "adharno": ""
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userdetails": [
+        {
+          "fullname": "",
+          "adharno": ""
+        }
+      ],
+      "id": 7
+    },
+    {
+      "from": "mumbai",
+      "to": "delhi",
+      "userdetails": [
+        {
+          "fullname": "seee",
+          "adharno": "1234"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "from": "mumbai",
+      "to": "delhi",
+      "userdetails": [
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        }
+      ],
+      "id": 9
+    },
+    {
+      "from": "mumbai",
+      "to": "delhi",
+      "userdetails": [
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        }
+      ],
+      "id": 10
+    },
+    {
+      "from": "mumbai",
+      "to": "delhi",
+      "userdetails": [
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        }
+      ],
+      "id": 11
+    },
+    {
+      "from": "mumbai",
+      "to": "delhi",
+      "userdetails": [
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        }
+      ],
+      "id": 12
+    },
+    {
+      "from": "mumbai",
+      "to": "delhi",
+      "userdetails": [
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        },
+        {
+          "fullname": "",
+          "adharno": ""
+        }
+      ],
+      "id": 13
+    }
+  ]
+}

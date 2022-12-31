@@ -1,0 +1,23 @@
+<div class="container">
+    <div class="row">
+      <div class="col md-6">
+        <div class="card">
+          <div class="text-center">
+            <h1>search flight</h1>
+            <form [formGroup]="flightform" >
+              <label for="form">form</label>
+              <input type="text" placeholder="search your city" formControlName="from"><br><br>
+              <label for="To">To</label  ><br>
+              <input type="text" placeholder="city" formControlName="to"><br><br>
+              <label >flight date</label>
+              <input type="date" for><br><br>
+              <label >passenger</label>
+              <input type="pasenger"><br><br>
+              <button class="btn btn-warning" (click)="flight()">search</button>
+              </form>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+  <router-outlet></router-outlet>

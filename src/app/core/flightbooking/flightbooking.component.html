@@ -1,0 +1,24 @@
+<h1>hello</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>From</th>
+            <th>To</th>
+            <th>Departure</th>
+            <th>Passenger</th>
+        </tr>
+    </thead>
+    <tr *ngFor="let item of xyz ,index as i">
+        <td>{{i}}</td>
+        <td>{{item.from}}</td>
+        <td>{{item.to}}</td>
+        <td>{{item.date}}</td>
+        <td>{{item.Departure}}</td>
+        <td>{{item.passenger}}</td>
+        <td><button (click)="book(item)" class="btn btn-info">book</button></td>
+    </tr>
+</table>
+
+
+
